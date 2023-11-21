@@ -1,0 +1,12 @@
+.product-item{
+    text-align: center;
+    border: 0.1px solid #181717;
+    width: 300px;
+   
+}
+
+.product-price{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
