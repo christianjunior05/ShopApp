@@ -1,5 +1,19 @@
 footer{
+}
+.footer-content{
+    
     background-color: cornflowerblue;
     height: calc(100vh - 70vh - 80px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: rem;
+    text-transform: uppercase;
+    
+}
+.footer-bottom{
+    background-color: rgb(27, 98, 228);
+    height: 70%;
 
 }
