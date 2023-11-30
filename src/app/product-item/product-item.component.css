@@ -1,8 +1,12 @@
+.product-item:hover{
+    background-color: #1d1d1d;
+    color: white;
+}
 .product-item{
     text-align: center;
     border: 0.1px solid #181717;
     width: 300px;
-   
+   cursor: pointer;
 }
 
 .product-price{
